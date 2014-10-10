@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ExtractVariables async="false" continueOnError="false" enabled="true" name="ExtractURI">
+    <DisplayName>ExtractURI</DisplayName>
+    <FaultRules/>
+    <Properties/>
+   <URIPath name="InfoId">
+      <Pattern ignoreCase="false">/getinfo/{id}</Pattern>
+   </URIPath>
+</ExtractVariables>

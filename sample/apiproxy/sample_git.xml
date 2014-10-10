@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="sample_git">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1412940856094</CreatedAt>
+    <CreatedBy>sonal.sheetal@accenture.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>sample_git</DisplayName>
+    <LastModifiedAt>1412941031569</LastModifiedAt>
+    <LastModifiedBy>sonal.sheetal@accenture.com</LastModifiedBy>
+    <Policies>
+        <Policy>ExtractURI</Policy>
+        <Policy>RaiseFault201</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints/>
+    <validate>false</validate>
+</APIProxy>
